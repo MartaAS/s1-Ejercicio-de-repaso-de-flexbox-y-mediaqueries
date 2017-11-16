@@ -1,0 +1,27 @@
+.container{
+	border: 1px solid black;
+	display: flex;
+	font-family: sans-serif;
+}
+.links{
+	background-color: #97DFF3;
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	height: 100px;
+	margin-top: 50px;
+
+}
+.acdc{
+	background-color: #6FB1C3;
+	align-items: flex-start;
+	
+}
+.metallica{
+	background-color: #063541;
+	align-items: flex-start;
+}
+.img{
+	width: 100px;
+	height: 100px;
+}
